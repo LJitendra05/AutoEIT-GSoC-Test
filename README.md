@@ -1,6 +1,6 @@
 
 
-## roject
+## Project
 
 AutoEIT: Automated Scoring and Transcription for Elicited Imitation Tasks
 
