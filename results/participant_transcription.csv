@@ -1,0 +1,121 @@
+Sentence,Stimulus,Transcription,participant
+1.0,Quiero cortarme el pelo,Quiero cortarme el pelo,participant1.csv
+2.0,El libro está en la mesa,Quiero cortarme el pelo,participant1.csv
+3.0,El carro lo tiene Pedro,El libro está en la mesa,participant1.csv
+4.0,El se ducha cada mañana,El libro está en la mesa,participant1.csv
+5.0,¿Qué dice usted que va a hacer hoy?,El caro lo tiene el pelo,participant1.csv
+6.0,Dudo que sepa manejar muy bien,El se duche cada mañana,participant1.csv
+7.0,Las calles de esta ciudad son muy anchas,¿Qué dices a ustedes que va a hacer hoy,participant1.csv
+8.0,Puede que llueva mañana todo el día,Digo que sepa manejar muy bien,participant1.csv
+9.0,Las casas son muy bonitas pero caras,Las calles de esta ciudad son muy anchas,participant1.csv
+10.0,Me gustan las películas que acaban bien,Pueden que lleve mañana todo el día,participant1.csv
+11.0,El chico con el que yo salgo es español,Las casas son muy bonitas pero caras,participant1.csv
+12.0,Después de cenar me fui a dormir tranquilo,Me gustan las películas que caban bien,participant1.csv
+13.0,Quiero una casa en la que vivan mis animales,El chico que hago es español,participant1.csv
+14.0,A nosotros nos fascinan las fiestas grandiosas,Después de cenar me fui a dormir tranquilo,participant1.csv
+15.0,Ella sólo bebe cerveza y no come nada,Quiero una casa en la que viven animales,participant1.csv
+16.0,Me gustaría que el precio de las casas bajara,A nosotros solo bebe cerveza y no come nada,participant1.csv
+17.0,Cruza a la derecha y después sigue todo recto,Me gustaría cruzar a la derecha y luego seguir todo recto,participant1.csv
+18.0,Ella ha terminado de pintar su apartamento,Ella ha terminado de pintar su apartamento,participant1.csv
+19.0,Me gustaría que empezara a hacer más calor pronto,Me gustaría que empezara a ser más color pronto,participant1.csv
+20.0,El niño al que se le murió el gato está triste,El niño a que se murió el gato triste,participant1.csv
+21.0,Una amiga mía cuida a los niños de mi vecino,"Mi amiga, cuidado los niños",participant1.csv
+22.0,El gato que era negro fue perseguido por el perro,El gato que era negro,participant1.csv
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Antes de salir tiene que limpiar su corto,participant1.csv
+24.0,La cantidad de personas que fuman ha disminuido,La cantidad de personas que fuman,participant1.csv
+25.0,Después de llegar a casa del trabajo tomé la cena,Después de llegar a casa,participant1.csv
+26.0,El ladrón al que atrapó la policía era famoso,El ladrón policía era famoso,participant1.csv
+27.0,Le pedí a un amigo que me ayudara con la tarea,Mi amiga que ayudó a la tarea,participant1.csv
+28.0,El examen no fue tan difícil como me habían dicho,El examen no es tan difícil,participant1.csv
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,Hay mucha gente que no toma nada para desayuno,participant1.csv
+30.0,Hay mucha gente que no toma nada para el desayuno,Quiero cortarme el pelo,participant1.csv
+1.0,Quiero cortarme el pelo,El libro está en la mesa,participant2.csv
+2.0,El libro está en la mesa,El carro no tiene pelo,participant2.csv
+3.0,El carro lo tiene Pedro,El se ducha cada mañana,participant2.csv
+4.0,El se ducha cada mañana,¿Qué dice usted que va a hacer hoy,participant2.csv
+5.0,¿Qué dice usted que va a hacer hoy?,Tengo que se manejar bien,participant2.csv
+6.0,Dudo que sepa manejar muy bien,Les cae en Salivad muchas años,participant2.csv
+7.0,Las calles de esta ciudad son muy anchas,Puede que llevan mañana todo el día,participant2.csv
+8.0,Puede que llueva mañana todo el día,Las casas son muy bonitas pero caras,participant2.csv
+9.0,Las casas son muy bonitas pero caras,Me gustan las películas que caban bien,participant2.csv
+10.0,Me gustan las películas que acaban bien,¿El chico conectivo salgo,participant2.csv
+11.0,El chico con el que yo salgo es español,Después de cenar me fui a poner tranquilo,participant2.csv
+12.0,Después de cenar me fui a dormir tranquilo,Quiero una casa que viven a mis animales,participant2.csv
+13.0,Quiero una casa en la que vivan mis animales,A nosotros que las vices son la cerveza,participant2.csv
+14.0,A nosotros nos fascinan las fiestas grandiosas,Me gustan los precios de las casas,participant2.csv
+15.0,Ella sólo bebe cerveza y no come nada,Cursa la derecha y sigue derecho,participant2.csv
+16.0,Me gustaría que el precio de las casas bajara,Me gustan las hacer pronto,participant2.csv
+17.0,Cruza a la derecha y después sigue todo recto,El niño que se murió del gato está triste,participant2.csv
+18.0,Ella ha terminado de pintar su apartamento,Una amiga de mi que cuidaba a los niños,participant2.csv
+19.0,Me gustaría que empezara a hacer más calor pronto,El gato era negro y el perro,participant2.csv
+20.0,El niño al que se le murió el gato está triste,¿Puede que saliera cuarto,participant2.csv
+21.0,Una amiga mía cuida a los niños de mi vecino,La cantidad de personas que fuman fue mi saldido,participant2.csv
+22.0,El gato que era negro fue perseguido por el perro,Después de llegar a la casa fui a la cena,participant2.csv
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Perdón a la policía,participant2.csv
+24.0,La cantidad de personas que fuman ha disminuido,Me di a un amigo que ayudara con mi tarea,participant2.csv
+25.0,Después de llegar a casa del trabajo tomé la cena,No fue el examen,participant2.csv
+26.0,El ladrón al que atrapó la policía era famoso,Es amable que lo están,participant2.csv
+27.0,Le pedí a un amigo que me ayudara con la tarea,Hay mucha gente que no tomara el desayuno,participant2.csv
+28.0,El examen no fue tan difícil como me habían dicho,Quiero cortar el velo,participant2.csv
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,El libro está a la mesa,participant2.csv
+30.0,Hay mucha gente que no toma nada para el desayuno,El carro lo tiene pelo,participant2.csv
+1.0,Quiero cortarme el pelo,El seduche cara mañana,participant3.csv
+2.0,El libro está en la mesa,Quierizo ser que pasero,participant3.csv
+3.0,El carro lo tiene Pedro,Duro seca lesar también,participant3.csv
+4.0,El se ducha cada mañana,La calle siente,participant3.csv
+5.0,¿Qué dice usted que va a hacer hoy?,El pueblo se que ella cae,participant3.csv
+6.0,Dudo que sepa manejar muy bien,Las casas son bonitas pero caras,participant3.csv
+7.0,Las calles de esta ciudad son muy anchas,Me gustan las paletulas,participant3.csv
+8.0,Puede que llueva mañana todo el día,El chico es bonalio,participant3.csv
+9.0,Las casas son muy bonitas pero caras,Es baño,participant3.csv
+10.0,Me gustan las películas que acaban bien,Llego a dormir,participant3.csv
+11.0,El chico con el que yo salgo es español,Quiero la casa estar a mi animales,participant3.csv
+12.0,Después de cenar me fui a dormir tranquilo,A nosotros asignados a los nosotros,participant3.csv
+13.0,Quiero una casa en la que vivan mis animales,Ella es el conversino de los de las personas,participant3.csv
+14.0,A nosotros nos fascinan las fiestas grandiosas,Me gustaría que los besos bestas,participant3.csv
+15.0,Ella sólo bebe cerveza y no come nada,Me gustaría cruzar a la derecha,participant3.csv
+16.0,Me gustaría que el precio de las casas bajara,Ella terminó la pavimenta,participant3.csv
+17.0,Cruza a la derecha y después sigue todo recto,Me gustaría que las pincatas,participant3.csv
+18.0,Ella ha terminado de pintar su apartamento,El niño sirio cato,participant3.csv
+19.0,Me gustaría que empezara a hacer más calor pronto,Una amiga picado en mi mesino,participant3.csv
+20.0,El niño al que se le murió el gato está triste,El cato sin negro y el apero,participant3.csv
+21.0,Una amiga mía cuida a los niños de mi vecino,Que se limpia tu cuarto,participant3.csv
+22.0,El gato que era negro fue perseguido por el perro,La cantina de la vida es afortunada por las personas,participant3.csv
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Después de llegar a mi casa voy a la cena,participant3.csv
+24.0,La cantidad de personas que fuman ha disminuido,El tarea es difícil para la derecha,participant3.csv
+25.0,Después de llegar a casa del trabajo tomé la cena,Está en la mesa,participant3.csv
+26.0,El ladrón al que atrapó la policía era famoso,Hay mucho ejemplo pero,participant3.csv
+27.0,Le pedí a un amigo que me ayudara con la tarea,Quiero cortarme el pelo,participant3.csv
+28.0,El examen no fue tan difícil como me habían dicho,El libro está en la mesa,participant3.csv
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,El carro no tiene pelo,participant3.csv
+30.0,Hay mucha gente que no toma nada para el desayuno,El se ducha cada mañana,participant3.csv
+1.0,Quiero cortarme el pelo,Que dice usted es que va a ser hoy,participant4.csv
+2.0,El libro está en la mesa,Tuvo que se permanejar bien,participant4.csv
+3.0,El carro lo tiene Pedro,Las calles de esta ciudad son muy anches,participant4.csv
+4.0,El se ducha cada mañana,Puede que lleva mañana todo el día,participant4.csv
+5.0,¿Qué dice usted que va a hacer hoy?,Las casas son muy bonitos pero caras,participant4.csv
+6.0,Dudo que sepa manejar muy bien,Me gustan las películas que acaban bien,participant4.csv
+7.0,Las calles de esta ciudad son muy anchas,El chico con esto algo es español,participant4.csv
+8.0,Puede que llueva mañana todo el día,Después de cenar me fui a dormir tranquilo,participant4.csv
+9.0,Las casas son muy bonitas pero caras,Quiero una casa en que le viven mis animales,participant4.csv
+10.0,Me gustan las películas que acaban bien,A nosotros nos fascinan las fiestas grandes,participant4.csv
+11.0,El chico con el que yo salgo es español,Ella solo bebe cerveza y come nada,participant4.csv
+12.0,Después de cenar me fui a dormir tranquilo,Me gustan las precios cajas,participant4.csv
+13.0,Quiero una casa en la que vivan mis animales,Cruza a la derecha y sigue el todo resto,participant4.csv
+14.0,A nosotros nos fascinan las fiestas grandiosas,Yo terminé de su apartamento,participant4.csv
+15.0,Ella sólo bebe cerveza y no come nada,Me gustaría hacer más calor pronto,participant4.csv
+16.0,Me gustaría que el precio de las casas bajara,El niño que se murió el gato y está triste,participant4.csv
+17.0,Cruza a la derecha y después sigue todo recto,Un amigo me cuidó a los niños,participant4.csv
+18.0,Ella ha terminado de pintar su apartamento,Un gato negro fue perseguido por el perro,participant4.csv
+19.0,Me gustaría que empezara a hacer más calor pronto,Antes de salir empiezo el cuarto,participant4.csv
+20.0,El niño al que se le murió el gato está triste,La cantidad de personas que fuman es difícil,participant4.csv
+21.0,Una amiga mía cuida a los niños de mi vecino,"Después de llegar a la casa, después del trabajo, come la cena",participant4.csv
+22.0,El gato que era negro fue perseguido por el perro,El otro que atrapo con la policía era famosa,participant4.csv
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Le pedí a un amigo que me ayudó en la tarea,participant4.csv
+24.0,La cantidad de personas que fuman ha disminuido,Pero el trabajo no fue difícil,participant4.csv
+25.0,Después de llegar a casa del trabajo tomé la cena,Serías tan amables puede darme el libro en el mesa,participant4.csv
+26.0,El ladrón al que atrapó la policía era famoso,No hay mucha gente que no toma nada para el desayuno,participant4.csv
+27.0,Le pedí a un amigo que me ayudara con la tarea,,participant4.csv
+28.0,El examen no fue tan difícil como me habían dicho,,participant4.csv
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,,participant4.csv
+30.0,Hay mucha gente que no toma nada para el desayuno,,participant4.csv

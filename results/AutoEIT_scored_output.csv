@@ -1,0 +1,121 @@
+Sentence,Stimulus,Transcription Rater 1,Score,participant,Similarity,Predicted_score
+1.0,Quiero cortarme el pelo,Quiero cortarme el pelo,,participant1.csv,1.000000238418579,2
+2.0,El libro está en la mesa,El libro está en la mesa,,participant1.csv,1.0,2
+3.0,El carro lo tiene Pedro,El carro lo tiene Pedro,,participant1.csv,0.9999998807907104,2
+4.0,El se ducha cada mañana,El se ducha cada mañana,,participant1.csv,1.0,2
+5.0,¿Qué dice usted que va a hacer hoy?,Que dices ustedes se que van a hacer hoy?,,participant1.csv,0.9547082781791687,2
+6.0,Dudo que sepa manejar muy bien,Dudo que sepa manajar bien,,participant1.csv,0.8547635078430176,2
+7.0,Las calles de esta ciudad son muy anchas,Las calles de esta cuidad son muy anchas,,participant1.csv,0.9566935300827026,2
+8.0,Puede que llueva mañana todo el día,Puede que lleva mañana todo el día,,participant1.csv,0.7493098974227905,1
+9.0,Las casas son muy bonitas pero caras,Las casas son muy bonitas pero muy cadas,,participant1.csv,0.8731496930122375,2
+10.0,Me gustan las películas que acaban bien,Me gustan las peliculas que acaban bien,,participant1.csv,0.540313720703125,0
+11.0,El chico con el que yo salgo es español,El chico con yo salgo ...um.. está bien,,participant1.csv,0.6089705228805542,0
+12.0,Después de cenar me fui a dormir tranquilo,Despues de cenar me fui a dormir tranquilo,,participant1.csv,0.9626697897911072,2
+13.0,Quiero una casa en la que vivan mis animales,Quiero una casa que vivan los animales,,participant1.csv,0.9793424606323242,2
+14.0,A nosotros nos fascinan las fiestas grandiosas,A nosotros ..nos fascina los fiestas grandiosos,,participant1.csv,0.9819286465644836,2
+15.0,Ella sólo bebe cerveza y no come nada,Ella solo bebe cerveza y no come nada,,participant1.csv,0.9993342161178589,2
+16.0,Me gustaría que el precio de las casas bajara,Me gustaría que las precios de las casas bajaron,,participant1.csv,0.986929714679718,2
+17.0,Cruza a la derecha y después sigue todo recto,Cruza a la derecha y sigue a la izquierda,,participant1.csv,0.9202568531036377,2
+18.0,Ella ha terminado de pintar su apartamento,Ella ha terminado pintando su apartamento,,participant1.csv,0.9928324222564697,2
+19.0,Me gustaría que empezara a hacer más calor pronto,Me gustaría se .. más calor,,participant1.csv,0.8690215945243835,2
+20.0,El niño al que se le murió el gato está triste,El niño que se murió su gato es triste,,participant1.csv,0.9884891510009766,2
+21.0,Una amiga mía cuida a los niños de mi vecino,una amiga de mio cuida su... niños de vecino,,participant1.csv,0.9065679311752319,2
+22.0,El gato que era negro fue perseguido por el perro,El gato que era negro era perseguido de(l) perro,,participant1.csv,0.9860957264900208,2
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Antes de salir el tiene que limpiar su cuarto,,participant1.csv,0.9875603914260864,2
+24.0,La cantidad de personas que fuman ha disminuido,La cantidad de personas que fuman ha..desmenido,,participant1.csv,0.8383725881576538,1
+25.0,Después de llegar a casa del trabajo tomé la cena,Despues de llegar a casa del trabajo...se...meh,,participant1.csv,0.5810424089431763,0
+26.0,El ladrón al que atrapó la policía era famoso,El ladrón que atrapó la policia era famoso,,participant1.csv,0.9949113130569458,2
+27.0,Le pedí a un amigo que me ayudara con la tarea,Le pedí a un amigo que me ayudara con la tarea,,participant1.csv,1.0000001192092896,2
+28.0,El examen no fue tan difícil como me habían dicho,El examen no fue tan dificil como me decían,,participant1.csv,0.9930379986763,2
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,Serías tan amable pa'- darme el libro que está en la mesa?,,participant1.csv,0.9820955991744995,2
+30.0,Hay mucha gente que no toma nada para el desayuno,Hay mucha genta que no to- toma nada para el desayuno.,,participant1.csv,0.9895285367965698,2
+1.0,Quiero cortarme el pelo,Quiero cortarme el pelo,,participant2.csv,1.000000238418579,2
+2.0,El libro está en la mesa,El libro está en la mesa.,,participant2.csv,0.9980374574661255,2
+3.0,El carro lo tiene Pedro,El carro tiene pelo.,,participant2.csv,0.3285425305366516,0
+4.0,El se ducha cada mañana,él se ducha cada mañana,,participant2.csv,0.9908710718154907,2
+5.0,¿Qué dice usted que va a hacer hoy?,en que ustedes x uf x hacer hoy?,,participant2.csv,0.8503406643867493,2
+6.0,Dudo que sepa manejar muy bien,dudo/tu no? sepiar exx muy bien,,participant2.csv,0.5456286668777466,0
+7.0,Las calles de esta ciudad son muy anchas,La calles estén xxxx muy anchas.,,participant2.csv,0.9280061721801758,2
+8.0,Puede que llueva mañana todo el día,Puede que mañana todo la día,,participant2.csv,0.7645803093910217,1
+9.0,Las casas son muy bonitas pero caras,Las casas muy bonitos pero ... casas,,participant2.csv,0.7801235914230347,1
+10.0,Me gustan las películas que acaban bien,Me gustan las películas campan bien,,participant2.csv,0.9547150731086731,2
+11.0,El chico con el que yo salgo es español,el chico con ... español,,participant2.csv,0.9555457830429077,2
+12.0,Después de cenar me fui a dormir tranquilo,después de finar ... él dormir xxx,,participant2.csv,0.5971917510032654,0
+13.0,Quiero una casa en la que vivan mis animales,Quiere una casa con animales,,participant2.csv,0.8506560325622559,2
+14.0,A nosotros nos fascinan las fiestas grandiosas,a nosotros fana-xxx fiestas grandinosas,,participant2.csv,0.8921314477920532,2
+15.0,Ella sólo bebe cerveza y no come nada,Ella xxx no beber querer,,participant2.csv,0.467882364988327,0
+16.0,Me gustaría que el precio de las casas bajara,Me gusta el casa xxx...,,participant2.csv,0.4558684229850769,0
+17.0,Cruza a la derecha y después sigue todo recto,en quises a la derecha xxx...,,participant2.csv,0.7156473398208618,1
+18.0,Ella ha terminado de pintar su apartamento,Ella tiene termino xx apartamento,,participant2.csv,0.7494373917579651,1
+19.0,Me gustaría que empezara a hacer más calor pronto,Me gusta que d-crxxx calor pranto,,participant2.csv,0.6566612720489502,1
+20.0,El niño al que se le murió el gato está triste,El niño se murió el gato y triste,,participant2.csv,0.971784234046936,2
+21.0,Una amiga mía cuida a los niños de mi vecino,Una amigo que niña ha cuidado,,participant2.csv,0.6699718236923218,1
+22.0,El gato que era negro fue perseguido por el perro,El gato negro se fuera el perro son,,participant2.csv,0.7526888251304626,1
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Antes de salir limpio.. el caso,,participant2.csv,0.6070442199707031,0
+24.0,La cantidad de personas que fuman ha disminuido,la cantidad de las personas fe-xxx fumar,,participant2.csv,0.7737401723861694,1
+25.0,Después de llegar a casa del trabajo tomé la cena,Después de llegar la casa pone cena,,participant2.csv,0.8475539684295654,1
+26.0,El ladrón al que atrapó la policía era famoso,El xxx la policía es famoso,,participant2.csv,0.7214193344116211,1
+27.0,Le pedí a un amigo que me ayudara con la tarea,Le pedí un amigo con ayuda con mí tarea,,participant2.csv,0.967818021774292,2
+28.0,El examen no fue tan difícil como me habían dicho,El examen no es difícil cuando me xxx...,,participant2.csv,0.8189942836761475,1
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,El libro están en la mesa.,,participant2.csv,0.8295987844467163,1
+30.0,Hay mucha gente que no toma nada para el desayuno,Hay mucho gente no quiere desayuno,,participant2.csv,0.9308462738990784,2
+1.0,Quiero cortarme el pelo,Quiero cortarme el pelo,,participant3.csv,1.000000238418579,2
+2.0,El libro está en la mesa,El libro está en la mesa,,participant3.csv,1.0,2
+3.0,El carro lo tiene Pedro,El carro tiene Pedro,,participant3.csv,0.9741541743278503,2
+4.0,El se ducha cada mañana,El se ducha cada mañana,,participant3.csv,1.0,2
+5.0,¿Qué dice usted que va a hacer hoy?,¿Qué dices usted vas hacer hoy?,,participant3.csv,0.988839864730835,2
+6.0,Dudo que sepa manejar muy bien,Dudo que sepa manejar muy bien,,participant3.csv,1.0000001192092896,2
+7.0,Las calles de esta ciudad son muy anchas,Las calles de esta ciudad es muy anchas,,participant3.csv,0.9996864199638367,2
+8.0,Puede que llueva mañana todo el día,Pueda que llueva mañana todo día,,participant3.csv,0.9792240858078003,2
+9.0,Las casas son muy bonitas pero caras,Las casas son muy bonitas para caras,,participant3.csv,0.8430745601654053,1
+10.0,Me gustan las películas que acaban bien,Mis gus..Me gustas las películas que cada bien,,participant3.csv,0.9161717295646667,2
+11.0,El chico con el que yo salgo es español,El chico con esolago(es yo algo?) es español,,participant3.csv,0.953522801399231,2
+12.0,Después de cenar me fui a dormir tranquilo,Después de cenar fui a dormir tranquilo,,participant3.csv,0.9971840381622314,2
+13.0,Quiero una casa en la que vivan mis animales,Queda una ca..Quiere una casa en queda mis animales...mis animales quedan,,participant3.csv,0.7776955366134644,1
+14.0,A nosotros nos fascinan las fiestas grandiosas,A nosotros fascinmas festivales,,participant3.csv,0.8282350301742554,1
+15.0,Ella sólo bebe cerveza y no come nada,Ella sólo cerveza y como nada,,participant3.csv,0.8409119844436646,1
+16.0,Me gustaría que el precio de las casas bajara,Me gustaría que los precios de la casa bajara,,participant3.csv,0.9873461723327637,2
+17.0,Cruza a la derecha y después sigue todo recto,Sigue a la derecha y cruzo a la directo..y sique a la directo,,participant3.csv,0.8197484016418457,1
+18.0,Ella ha terminado de pintar su apartamento,Ella se terminar pintar su apartamento,,participant3.csv,0.9778300523757935,2
+19.0,Me gustaría que empezara a hacer más calor pronto,Me gustaría hacer..xx calores pronto,,participant3.csv,0.7829282879829407,1
+20.0,El niño al que se le murió el gato está triste,El niño que se murió su gato es triste,,participant3.csv,0.9884891510009766,2
+21.0,Una amiga mía cuida a los niños de mi vecino,Una amiga mía cuidado a los vecinos,,participant3.csv,0.7776843905448914,1
+22.0,El gato que era negro fue perseguido por el perro,El gato que es negro... [cough]...,,participant3.csv,0.6655789613723755,1
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Antes de salir tienes xxx cu-cuarto,,participant3.csv,0.4395054578781128,0
+24.0,La cantidad de personas que fuman ha disminuido,La cantidad de personas que fu-han fumado se distruy...,,participant3.csv,0.8260740041732788,1
+25.0,Después de llegar a casa del trabajo tomé la cena,Después de llegar a-de trabajo cena a mi casa,,participant3.csv,0.9312964677810669,2
+26.0,El ladrón al que atrapó la policía era famoso,La ladrón que atropó la policía es famoso,,participant3.csv,0.9871523976325989,2
+27.0,Le pedí a un amigo que me ayudara con la tarea,Le pedí un amigo que me ayuda con la tarea,,participant3.csv,0.9919488430023193,2
+28.0,El examen no fue tan difícil como me habían dicho,El examen no ..a..va a..fue a tan difícil,,participant3.csv,0.5787257552146912,0
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,Sales de donde está mi libro en está mesa,,participant3.csv,0.774693489074707,1
+30.0,Hay mucha gente que no toma nada para el desayuno,Hay mucha gente que no toma tiempo para desayuno,,participant3.csv,0.9015340209007263,2
+1.0,Quiero cortarme el pelo,Quiero cortarme mi pelo,,participant4.csv,0.9964501261711121,2
+2.0,El libro está en la mesa,El libro [pause] está en la mesa,,participant4.csv,0.8964650630950928,2
+3.0,El carro lo tiene Pedro,E-[gibberish] perro,,participant4.csv,0.27503684163093567,0
+4.0,El se ducha cada mañana,El se lucha cada mañana,,participant4.csv,0.5281122922897339,0
+5.0,¿Qué dice usted que va a hacer hoy?,¿Qué [gibberish] que vas estoy?,,participant4.csv,0.5088462829589844,0
+6.0,Dudo que sepa manejar muy bien,Dudo que sepa ma-mastar tan bien (tambien?),,participant4.csv,0.606991171836853,0
+7.0,Las calles de esta ciudad son muy anchas,Las calles..es-[gibberish]...,,participant4.csv,0.5221998691558838,0
+8.0,Puede que llueva mañana todo el día,Puede xxx mañana de todo día,,participant4.csv,0.7224395275115967,1
+9.0,Las casas son muy bonitas pero caras,A las casa es mu-son bonitas,,participant4.csv,0.6583975553512573,1
+10.0,Me gustan las películas que acaban bien,Me gusta las películas que x bien,,participant4.csv,0.9566632509231567,2
+11.0,El chico con el que yo salgo es español,El chico con es el algo (xxx?) es español,,participant4.csv,0.9216347932815552,2
+12.0,Después de cenar me fui a dormir tranquilo,Después de fenar mi fui a tranquilo,,participant4.csv,0.6275989413261414,0
+13.0,Quiero una casa en la que vivan mis animales,Quienen que en el casa ...muchos animales,,participant4.csv,0.663180410861969,1
+14.0,A nosotros nos fascinan las fiestas grandiosas,A nosotros fanimos [pause] fiestas grandiosas,,participant4.csv,0.9066276550292969,2
+15.0,Ella sólo bebe cerveza y no come nada,Ella bebidas cerviamos y no comidas,,participant4.csv,0.6102650165557861,0
+16.0,Me gustaría que el precio de las casas bajara,Me gustaría ser..ella...mhh..,,participant4.csv,0.08155094087123871,0
+17.0,Cruza a la derecha y después sigue todo recto,Cruze a la derecha de siguelo,,participant4.csv,0.8630884885787964,2
+18.0,Ella ha terminado de pintar su apartamento,Ella terminado pintar a sus apartmento,,participant4.csv,0.9788289070129395,2
+19.0,Me gustaría que empezara a hacer más calor pronto,Me gustaría se..[pause] xxx pronto,,participant4.csv,0.37162452936172485,0
+20.0,El niño al que se le murió el gato está triste,El niño se murió el gato es muy triste,,participant4.csv,0.9836174249649048,2
+21.0,Una amiga mía cuida a los niños de mi vecino,Una mía amiga cuidado a sus niños,,participant4.csv,0.8766977787017822,2
+22.0,El gato que era negro fue perseguido por el perro,El gato-el gato quien era el nego de perro,,participant4.csv,0.6466150879859924,0
+23.0,Antes de poder salir él tiene que limpiar su cuarto,Antes de podai e salir..[pause] antes de xxx,,participant4.csv,0.4144230782985687,0
+24.0,La cantidad de personas que fuman ha disminuido,A la cantan... [pause] muy a xxx,,participant4.csv,0.1570817232131958,0
+25.0,Después de llegar a casa del trabajo tomé la cena,Después de llegar [pause] al trabajo...,,participant4.csv,0.5201981067657471,0
+26.0,El ladrón al que atrapó la policía era famoso,X- ladróna(?)de policio que es famoso,,participant4.csv,0.7845170497894287,1
+27.0,Le pedí a un amigo que me ayudara con la tarea,Que ped-x una amigo [pause] a su tarea,,participant4.csv,0.7345818281173706,1
+28.0,El examen no fue tan difícil como me habían dicho,El examen no difícil.. [pause]... [gibberish],,participant4.csv,0.5888605117797852,0
+29.0,¿Serías tan amable de darme el libro que está en la mesa?,El libro que está en la mesa,,participant4.csv,0.8260179758071899,1
+30.0,Hay mucha gente que no toma nada para el desayuno,A mucha gente xxx...,,participant4.csv,0.3026871681213379,0
