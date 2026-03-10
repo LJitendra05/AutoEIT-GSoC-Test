@@ -36,6 +36,7 @@ AutoEIT-GSoC-Test
 ├── results/
 │   ├── AutoEIT_transcriptions.xlsx
 │   └── AutoEIT_scored_output.csv
+|
 ├── AutoEIT_scoring.pdf
 ├── transcribe_audio.pdf
 └── README.md
